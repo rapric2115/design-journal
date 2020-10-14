@@ -1,0 +1,8 @@
+.displayif {
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+.cardMargin {
+    margin: .35rem;
+}
